@@ -23,7 +23,7 @@ Bu dijital saati kullanmak veya değiştirmek için:
 3. Saatin görünümünü değiştirmek için `style.css` dosyasını düzenleyin.
 
 
-##Ekran Görüntüsü
+## Ekran Görüntüsü
 ![image](https://github.com/user-attachments/assets/c45b6150-c300-4a51-a51f-3968c83e4bac)
 
 ## Örnek
