@@ -21,6 +21,9 @@ Bu dijital saati kullanmak veya değiştirmek için:
 1. Bu depoyu klonlayın veya dosyaları indirin.
 2. `index.html` dosyasını tarayıcınızda açarak saatin çalışmasını izleyin.
 3. Saatin görünümünü değiştirmek için `style.css` dosyasını düzenleyin.
+
+
+##Ekran Görüntüsü
 ![image](https://github.com/user-attachments/assets/c45b6150-c300-4a51-a51f-3968c83e4bac)
 
 ## Örnek
